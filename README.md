@@ -37,7 +37,7 @@ Use the common ancestor to distinguish each contributor's edits from changes alr
 Confirm the role of each panel before copying text between versions.
 A conflict that can be merged mechanically may still require review for behavior, terminology, or consistency.
 
-![Three text revisions displayed with a common ancestor and highlighted changes](tools/p11.jpg)
+![Three text revisions displayed with a common ancestor and highlighted changes](Tools/p11.jpg)
 
 **Comparison appearance**
 
@@ -105,7 +105,7 @@ In the supplied WinMerge snapshot, [Merge7z.cpp](ArchiveSupport/Merge7z/Merge7z.
 The interface declarations in [Merge7z.h](ArchiveSupport/Merge7z/Merge7z.h) describe that independent integration.
 They do not establish archive handling capabilities or APIs in Araxis Merge.
 
-![Folder comparison showing changed files and items present on only one side](tools/e22.jpg)
+![Folder comparison showing changed files and items present on only one side](Tools/e22.jpg)
 
 ## Documentation
 
